@@ -1,5 +1,5 @@
 # Single_cell_roadmap
-![alt text](https://github.com/mkorshe/single_cell_roadmap/blob/main/SC_ROADMAP.png)
+![alt text](https://github.com/mkorshe/single_cell__transcritpomics_roadmap/blob/main/SC_ROADMAP.png)
 
 In this roadmap it is described the path from a beginner in bioinformatics/biology to single-cell expert.
 
