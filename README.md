@@ -117,6 +117,9 @@ Cakir, Batuhan, et al. “Comparison of Visualization Tools for Single-Cell RNAs
 
 Shao, Xin, et al. “New Avenues for Systematically Inferring Cell-Cell Communication: Through Single-Cell Transcriptomics Data.” Protein & Cell, May 2020, doi:10.1007/s13238-020-00727-5. https://link.springer.com/article/10.1007/s13238-020-00727-5
 
+Armingol, Erick, et al. “Deciphering Cell–Cell Interactions and Communication from Gene Expression.” Nature Reviews Genetics, Nov. 2020, doi:10.1038/s41576-020-00292-x.  https://www.nature.com/articles/s41576-020-00292-x
+
+
 #### Protein imputation
 Example:
 Zhou, Zilu, et al. “Surface Protein Imputation from Single Cell Transcriptomes by Deep Neural Networks.” Nature Communications, vol. 11, no. 1, Jan. 2020, doi:10.1038/s41467-020-14391-0. https://www.nature.com/articles/s41467-020-14391-0
