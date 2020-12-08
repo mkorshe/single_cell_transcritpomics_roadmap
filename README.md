@@ -16,6 +16,8 @@ Also, you have to understand how sequencing works and what are differences betwe
 
 ### Usefull articles:
 
+Andrews, Tallulah S., et al. “Tutorial: Guidelines for the Computational Analysis of Single-Cell RNA Sequencing Data.” Nature Protocols, Dec. 2020, doi:10.1038/s41596-020-00409-w.  https://www.nature.com/articles/s41596-020-00409-w
+
 Stuart, T. and Satija, R. (2019). Integrative single-cell analysis. Nature Reviews Genetics, [online] 20(5), pp.257–272. Available at: https://www.nature.com/articles/s41576-019-0093-7 
 
 Luecken, M.D. and Theis, F.J. (2019). Current best practices in single‐cell RNA‐seq analysis: a tutorial. Molecular Systems Biology, 15(6). https://www.embopress.org/doi/full/10.15252/msb.20188746
