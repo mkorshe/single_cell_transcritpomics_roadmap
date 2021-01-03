@@ -14,7 +14,7 @@ After that you can better understand the importance of research in single-cell r
 
 Also, you have to understand how sequencing works and what are differences between main sequencing platforms. 
 
-### Usefull articles:
+### Useful articles:
 
 Andrews, Tallulah S., et al. “Tutorial: Guidelines for the Computational Analysis of Single-Cell RNA Sequencing Data.” Nature Protocols, Dec. 2020, doi:10.1038/s41596-020-00409-w.  https://www.nature.com/articles/s41596-020-00409-w
 
